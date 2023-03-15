@@ -1,7 +1,7 @@
 # Spiff Data Engineering Candidate Coding Exercises
-Janaan Lake
-March 15, 2023
-janaanl@hotmail.com
+Janaan Lake\
+March 15, 2023\
+janaanl@hotmail.com\
 
 The function/method that was created for this project is:
 ```{python}
