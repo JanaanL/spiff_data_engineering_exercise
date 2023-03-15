@@ -43,8 +43,8 @@ calculate_commission(sales_rep_name, start_date, end_date):
 Alternatively, you can run this method on the command line in the same directory as the commissions.py file with the following prompts:
 ```console{}
 python 
-import commissions as c
-c.calculate_commission("Ian", "2023-01-15", "2023-04-30")
+>>> import commissions as c
+>>> c.calculate_commission("Ian", "2023-01-15", "2023-04-30")
 ```
 
 ### Tests
